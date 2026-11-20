@@ -1,0 +1,6 @@
+{
+  "name": "PDF Compressor",
+  "description": "Offline native Android PDF compressor preserving document readability, searchable text, and vector quality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

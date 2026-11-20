@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PDF Compressor</string>
+    <string name="app_tagline">Precision on-device PDF optimization</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+    <string name="select_pdf">Select PDF</string>
+    <string name="change_pdf">Change PDF</string>
+    <string name="clear_selection">Clear selection</string>
+    <string name="compress_pdf_section">Compress PDF</string>
+    <string name="compress_now">Compress PDF</string>
+    <string name="recent_compressed_pdfs">Recent Compressed PDFs</string>
+    <string name="view_all_history">View all</string>
+    <string name="no_recent_files_title">No compressed PDFs yet</string>
+    <string name="no_recent_files_subtitle">Select any PDF above to shrink embedded images and optimize streams right on your device.</string>
+    <string name="settings_title">Settings</string>
+    <string name="history_title">Compression History</string>
+    <string name="results_title">Compression Results</string>
+    <string name="open_pdf">Open PDF</string>
+    <string name="share_pdf">Share PDF</string>
+    <string name="save_pdf">Save PDF</string>
+    <string name="compress_again">Compress Again</string>
+    <string name="keep_original">Keep Original</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="confirm">Confirm</string>
+    <string name="error_no_pdf_selected">Please select a PDF document first.</string>
+    <string name="error_unsupported_format">The selected file is not a valid PDF document.</string>
+    <string name="error_password_protected">This PDF is password-protected. Please unlock it before compressing.</string>
+    <string name="error_corrupted_pdf">This PDF appears corrupted or uses an unsupported structure.</string>
+    <string name="error_insufficient_storage">Insufficient internal storage available to safely process this PDF.</string>
+    <string name="error_no_pdf_viewer">No PDF viewer app found on this device.</string>
+</resources>
